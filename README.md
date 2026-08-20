@@ -1,4 +1,8 @@
 # meu-reposit-rio
 
 Meu nome é Bia
-Estou aprendendo programação
+estou aprendendo programação e usar o Github...
+
+#O que estou aprendendo
+Github
+e versionamento 
